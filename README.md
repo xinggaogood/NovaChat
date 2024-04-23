@@ -18,3 +18,6 @@ Windows: https://yun.talle.cn/s/l5i5
 安卓: https://yun.talle.cn/s/mOsK
 
 下载使用卡密
+
+
+![Uploading image.png…]()
