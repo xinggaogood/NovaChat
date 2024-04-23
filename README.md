@@ -14,10 +14,7 @@ e17331ec-d45c-49f2-bf21-c08159f82757
 0d217c42-4b25-4908-bb8a-1c8a471cd61f
 
 
-Windows: https://yun.talle.cn/s/l5i5
-安卓: https://yun.talle.cn/s/mOsK
-
 下载使用卡密
 
 
-![Uploading image.png…]()
+
